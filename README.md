@@ -112,6 +112,3 @@ This project is provided under the MIT License. See the `LICENSE` file for detai
 
 If you have questions or want improvements, open an issue or contact the project owner.
 
----
-
-Enjoy building and customizing your Golf Booking Interface!
